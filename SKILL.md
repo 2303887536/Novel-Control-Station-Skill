@@ -1,6 +1,7 @@
 ---
 name: novel-control-station
-description: Use when writing, planning, continuing, repairing, revising, or running marathon/"疯狂写作"/auto continuation mode for Chinese long-form fiction with recurring characters, multiple plotlines, persistent world rules, chapter-by-chapter continuity needs, or style-specific constraints.
+description: ⛔ DEPRECATED 2026-05-03 — 精华已融入 pro-novel-writer。本 skill 保留存档，不再作为独立创作入口。
+alwaysApply: false
 ---
 
 # Novel Control Station
